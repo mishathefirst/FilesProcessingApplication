@@ -1,0 +1,1 @@
+{"n":1,"mqtt":"null","invid":"'G-044322'","unit_guid":"'01749246-95f6-57db-b7c3-2ae0e8be671f'","msg_id":"'cold7_Defrost_status'","text":"'Разморозка'","context":"null","class":"'waiting'","level":100,"area":"'LOCAL'","addr":"'cold7_status.Defrost_status'","block":false,"type":"null","bit":0,"invert_bit":0}

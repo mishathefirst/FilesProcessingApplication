@@ -1,0 +1,8 @@
+{
+  "host": "aaaa",
+  "port": 1234,
+  "username": "postgres",
+  "password":"password_to_insert",
+  "name": "postgres",
+  "directory": "path_to_dir"
+}

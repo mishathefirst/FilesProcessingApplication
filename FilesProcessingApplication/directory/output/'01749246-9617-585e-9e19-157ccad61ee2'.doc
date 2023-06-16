@@ -1,0 +1,1 @@
+{"n":8,"mqtt":"null","invid":"'G-044325'","unit_guid":"'01749246-9617-585e-9e19-157ccad61ee2'","msg_id":"'cold78_Temp_Al_HH'","text":"'Высокая температура'","context":"null","class":"'alarm'","level":100,"area":"'LOCAL'","addr":"'cold78_status.Temp_Al_HH'","block":false,"type":"null","bit":0,"invert_bit":0}
